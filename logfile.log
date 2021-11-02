@@ -1,0 +1,730 @@
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:47:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"dsad dsad","stack":"Error: dsad\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:23:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"dsad dsad","stack":"Error: dsad\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:23:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:47:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:55:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:54:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:54:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:54:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:54:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:53:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:53:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:36:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:36:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:36:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:32:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:31:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:31:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:20:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:20:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":4000,"level":"error","message":"listen EADDRINUSE: address already in use :::4000 listen EADDRINUSE: address already in use :::4000","stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (net.js:1320:16)\n    at listenInCluster (net.js:1368:12)\n    at Server.listen (net.js:1454:7)\n    at Function.listen (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:12:5)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"level":"error","message":"Cannot parse config file: 'E:\\nodeProject\\vidly\\config\\custom-environment-variables.json': SyntaxError: Unexpected end of JSON input Cannot parse config file: 'E:\\nodeProject\\vidly\\config\\custom-environment-variables.json': SyntaxError: Unexpected end of JSON input","stack":"Error: Cannot parse config file: 'E:\\nodeProject\\vidly\\config\\custom-environment-variables.json': SyntaxError: Unexpected end of JSON input\n    at Config.util.parseFile (E:\\nodeProject\\vidly\\node_modules\\config\\lib\\config.js:844:11)\n    at E:\\nodeProject\\vidly\\node_modules\\config\\lib\\config.js:1134:26\n    at Array.forEach (<anonymous>)\n    at Config.util.getCustomEnvVars (E:\\nodeProject\\vidly\\node_modules\\config\\lib\\config.js:1133:16)\n    at Config.util.loadFileConfigs (E:\\nodeProject\\vidly\\node_modules\\config\\lib\\config.js:693:28)\n    at new Config (E:\\nodeProject\\vidly\\node_modules\\config\\lib\\config.js:116:27)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\node_modules\\config\\lib\\config.js:1492:31)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\middleware\\auth.js:2:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)"}
+{"level":"error","message":"FATAL ERROR: jwtPrivateKey is not defined FATAL ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (E:\\nodeProject\\vidly\\startup\\config.js:8:15)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:7:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"level":"error","message":"FATAL ERROR: jwtPrivateKey is not defined FATAL ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (E:\\nodeProject\\vidly\\startup\\config.js:8:15)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:7:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"level":"error","message":"FATAL ERROR: jwtPrivateKey is not defined FATAL ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL ERROR: jwtPrivateKey is not defined\n    at module.exports (E:\\nodeProject\\vidly\\startup\\config.js:8:15)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:7:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"level":"error","message":"requrie is not defined requrie is not defined","stack":"ReferenceError: requrie is not defined\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\routes\\movies.js:5:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\startup\\routes.js:6:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:5:1)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\response.js:1123:12)\n    at ServerResponse.json (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\response.js:260:14)\n    at ServerResponse.send (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\response.js:158:21)\n    at E:\\nodeProject\\vidly\\routes\\users.js:10:9\n    at Layer.handle [as handle_request] (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (E:\\nodeProject\\vidly\\middleware\\auth.js:13:9)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"level":"error","message":"Cannot read property 'path' of undefined Cannot read property 'path' of undefined","stack":"TypeError: Cannot read property 'path' of undefined\n    at E:\\nodeProject\\vidly\\routes\\movies.js:45:24\n    at Layer.handle [as handle_request] (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Array.<anonymous> (E:\\nodeProject\\vidly\\node_modules\\multer\\lib\\make-middleware.js:53:37)\n    at listener (E:\\nodeProject\\vidly\\node_modules\\on-finished\\index.js:169:15)\n    at onFinish (E:\\nodeProject\\vidly\\node_modules\\on-finished\\index.js:100:5)\n    at callback (E:\\nodeProject\\vidly\\node_modules\\ee-first\\index.js:55:10)\n    at IncomingMessage.onevent (E:\\nodeProject\\vidly\\node_modules\\ee-first\\index.js:93:5)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"level":"error","message":"Unexpected token ';' Unexpected token ';'","stack":"E:\\nodeProject\\vidly\\routes\\movies.js:45\n        Poster: req.poster.map((fileName) => ({ fileName: fileName }));,\n                                                                      ^\n\nSyntaxError: Unexpected token ';'\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\startup\\routes.js:6:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:5:1)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"level":"error","message":"Unexpected token ';' Unexpected token ';'","stack":"E:\\nodeProject\\vidly\\routes\\movies.js:45\n        Poster: req.Poster.map((fileName) => ({ fileName: fileName }));,\n                                                                      ^\n\nSyntaxError: Unexpected token ';'\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\startup\\routes.js:6:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\vidly\\index.js:5:1)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Configuration property \"assetsBaseUrl\" is not defined Configuration property \"assetsBaseUrl\" is not defined","stack":"Error: Configuration property \"assetsBaseUrl\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Configuration property \"assetsBaseUrl\" is not defined Configuration property \"assetsBaseUrl\" is not defined","stack":"Error: Configuration property \"assetsBaseUrl\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Configuration property \"assetsBaseUrl\" is not defined Configuration property \"assetsBaseUrl\" is not defined","stack":"Error: Configuration property \"assetsBaseUrl\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Configuration property \"assetsBaseUrl\" is not defined Configuration property \"assetsBaseUrl\" is not defined","stack":"Error: Configuration property \"assetsBaseUrl\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Configuration property \"assetsBaseUrl\" is not defined Configuration property \"assetsBaseUrl\" is not defined","stack":"Error: Configuration property \"assetsBaseUrl\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Configuration property \"assetsBaseUrl\" is not defined Configuration property \"assetsBaseUrl\" is not defined","stack":"Error: Configuration property \"assetsBaseUrl\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Configuration property \"assetsBaseUrl\" is not defined Configuration property \"assetsBaseUrl\" is not defined","stack":"Error: Configuration property \"assetsBaseUrl\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 140 Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 140","stack":"Error: Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 140\n    at Config.util.parseFile (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:844:11)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:644:26\n    at Array.forEach (<anonymous>)\n    at Config.util.loadFileConfigs (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:643:16)\n    at new Config (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:116:27)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:1492:31)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:1:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Configuration property \"uploads\" is not defined Configuration property \"uploads\" is not defined","stack":"Error: Configuration property \"uploads\" is not defined\n    at Config.get (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:182:11)\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:4:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:24)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"movie.Poster.map is not a function movie.Poster.map is not a function","stack":"TypeError: movie.Poster.map is not a function\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"movie.Poster.map is not a function movie.Poster.map is not a function","stack":"TypeError: movie.Poster.map is not a function\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"movie.Poster.map is not a function movie.Poster.map is not a function","stack":"TypeError: movie.Poster.map is not a function\n    at mapper (E:\\nodeProject\\moweeBackend\\mappers\\movies.js:12:26)\n    at Array.map (<anonymous>)\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:27:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'map' of undefined Cannot read property 'map' of undefined","stack":"TypeError: Cannot read property 'map' of undefined\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:64:40\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Immediate.<anonymous> (E:\\nodeProject\\moweeBackend\\node_modules\\multer\\lib\\make-middleware.js:53:37)\n    at processImmediate (internal/timers.js:466:21)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'path' of undefined Cannot read property 'path' of undefined","stack":"TypeError: Cannot read property 'path' of undefined\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:64:40\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Immediate.<anonymous> (E:\\nodeProject\\moweeBackend\\node_modules\\multer\\lib\\make-middleware.js:53:37)\n    at processImmediate (internal/timers.js:466:21)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property 'path' of undefined Cannot read property 'path' of undefined","stack":"TypeError: Cannot read property 'path' of undefined\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:64:26\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at multerMiddleware (E:\\nodeProject\\moweeBackend\\node_modules\\multer\\lib\\make-middleware.js:18:41)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"errors":{"Plot":{"name":"ValidatorError","message":"Path `Plot` (`Over 10 years have passed since the first machine called The Terminator tried to kill Sarah Connor and her unborn son, John. The man who will become the future leader of the human resistance against the Machines is now a healthy young boy. However, another Terminator, called the T-1000, is sent back through time by the supercomputer Skynet. This new Terminator is more advanced and more powerful than its predecessor and its mission is to kill John Connor when he's still a child. However, Sarah and John do not have to face the threat of the T-1000 alone. Another Terminator (identical to the same model that tried and failed to kill Sarah Connor in 1984) is also sent back through time to protect them. Now, the battle for tomorrow has begun.`) is longer than the maximum allowed length (500).","properties":{"message":"Path `Plot` (`Over 10 years have passed since the first machine called The Terminator tried to kill Sarah Connor and her unborn son, John. The man who will become the future leader of the human resistance against the Machines is now a healthy young boy. However, another Terminator, called the T-1000, is sent back through time by the supercomputer Skynet. This new Terminator is more advanced and more powerful than its predecessor and its mission is to kill John Connor when he's still a child. However, Sarah and John do not have to face the threat of the T-1000 alone. Another Terminator (identical to the same model that tried and failed to kill Sarah Connor in 1984) is also sent back through time to protect them. Now, the battle for tomorrow has begun.`) is longer than the maximum allowed length (500).","type":"maxlength","maxlength":500,"path":"Plot","value":"Over 10 years have passed since the first machine called The Terminator tried to kill Sarah Connor and her unborn son, John. The man who will become the future leader of the human resistance against the Machines is now a healthy young boy. However, another Terminator, called the T-1000, is sent back through time by the supercomputer Skynet. This new Terminator is more advanced and more powerful than its predecessor and its mission is to kill John Connor when he's still a child. However, Sarah and John do not have to face the threat of the T-1000 alone. Another Terminator (identical to the same model that tried and failed to kill Sarah Connor in 1984) is also sent back through time to protect them. Now, the battle for tomorrow has begun."},"kind":"maxlength","path":"Plot","value":"Over 10 years have passed since the first machine called The Terminator tried to kill Sarah Connor and her unborn son, John. The man who will become the future leader of the human resistance against the Machines is now a healthy young boy. However, another Terminator, called the T-1000, is sent back through time by the supercomputer Skynet. This new Terminator is more advanced and more powerful than its predecessor and its mission is to kill John Connor when he's still a child. However, Sarah and John do not have to face the threat of the T-1000 alone. Another Terminator (identical to the same model that tried and failed to kill Sarah Connor in 1984) is also sent back through time to protect them. Now, the battle for tomorrow has begun."}},"_message":"Movie validation failed","level":"error","message":"Movie validation failed: Plot: Path `Plot` (`Over 10 years have passed since the first machine called The Terminator tried to kill Sarah Connor and her unborn son, John. The man who will become the future leader of the human resistance against the Machines is now a healthy young boy. However, another Terminator, called the T-1000, is sent back through time by the supercomputer Skynet. This new Terminator is more advanced and more powerful than its predecessor and its mission is to kill John Connor when he's still a child. However, Sarah and John do not have to face the threat of the T-1000 alone. Another Terminator (identical to the same model that tried and failed to kill Sarah Connor in 1984) is also sent back through time to protect them. Now, the battle for tomorrow has begun.`) is longer than the maximum allowed length (500). Movie validation failed: Plot: Path `Plot` (`Over 10 years have passed since the first machine called The Terminator tried to kill Sarah Connor and her unborn son, John. The man who will become the future leader of the human resistance against the Machines is now a healthy young boy. However, another Terminator, called the T-1000, is sent back through time by the supercomputer Skynet. This new Terminator is more advanced and more powerful than its predecessor and its mission is to kill John Connor when he's still a child. However, Sarah and John do not have to face the threat of the T-1000 alone. Another Terminator (identical to the same model that tried and failed to kill Sarah Connor in 1984) is also sent back through time to protect them. Now, the battle for tomorrow has begun.`) is longer than the maximum allowed length (500).","stack":"ValidationError: Movie validation failed: Plot: Path `Plot` (`Over 10 years have passed since the first machine called The Terminator tried to kill Sarah Connor and her unborn son, John. The man who will become the future leader of the human resistance against the Machines is now a healthy young boy. However, another Terminator, called the T-1000, is sent back through time by the supercomputer Skynet. This new Terminator is more advanced and more powerful than its predecessor and its mission is to kill John Connor when he's still a child. However, Sarah and John do not have to face the threat of the T-1000 alone. Another Terminator (identical to the same model that tried and failed to kill Sarah Connor in 1984) is also sent back through time to protect them. Now, the battle for tomorrow has begun.`) is longer than the maximum allowed length (500).\n    at model.Document.invalidate (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\document.js:2730:32)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\document.js:2542:17\n    at E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\schematype.js:1273:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 81 Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 81","stack":"Error: Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 81\n    at Config.util.parseFile (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:844:11)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:644:26\n    at Array.forEach (<anonymous>)\n    at Config.util.loadFileConfigs (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:643:16)\n    at new Config (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:116:27)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:1492:31)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\routes\\movies.js:5:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)"}
+{"level":"error","message":"Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 81 Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 81","stack":"Error: Cannot parse config file: 'E:\\nodeProject\\moweeBackend\\config\\default.json': SyntaxError: Unexpected token } in JSON at position 81\n    at Config.util.parseFile (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:844:11)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:644:26\n    at Array.forEach (<anonymous>)\n    at Config.util.loadFileConfigs (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:643:16)\n    at new Config (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:116:27)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\node_modules\\config\\lib\\config.js:1492:31)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\routes\\movies.js:5:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"callback is not defined callback is not defined","stack":"ReferenceError: callback is not defined\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:87:46\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (E:\\nodeProject\\moweeBackend\\node_modules\\body-parser\\lib\\types\\urlencoded.js:100:7)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"What Women Want\"","kind":"ObjectId","value":"What Women Want","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"What Women Want\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"What Women Want\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"What Women Want\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"What Women Want\"","kind":"ObjectId","value":"What Women Want","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"What Women Want\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"What Women Want\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"What Women Want\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Unexpected token ':' Unexpected token ':'","stack":"E:\\nodeProject\\moweeBackend\\routes\\movies.js:75\n        _id:: req.params.id,\n            ^\n\nSyntaxError: Unexpected token ':'\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\startup\\routes.js:3:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"ok":0,"code":66,"codeName":"ImmutableField","name":"MongoError","level":"error","message":"Performing an update on the path '_id' would modify the immutable field '_id' Performing an update on the path '_id' would modify the immutable field '_id'","stack":"MongoError: Performing an update on the path '_id' would modify the immutable field '_id'\n    at MessageStream.messageHandler (E:\\nodeProject\\moweeBackend\\node_modules\\mongodb\\lib\\cmap\\connection.js:272:20)\n    at MessageStream.emit (events.js:375:28)\n    at processIncomingData (E:\\nodeProject\\moweeBackend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (E:\\nodeProject\\moweeBackend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at writeOrBuffer (internal/streams/writable.js:358:12)\n    at MessageStream.Writable.write (internal/streams/writable.js:303:10)\n    at Socket.ondata (internal/streams/readable.js:726:22)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)\n    at Socket.Readable.push (internal/streams/readable.js:204:10)\n    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"ok":0,"code":66,"codeName":"ImmutableField","name":"MongoError","level":"error","message":"Performing an update on the path '_id' would modify the immutable field '_id' Performing an update on the path '_id' would modify the immutable field '_id'","stack":"MongoError: Performing an update on the path '_id' would modify the immutable field '_id'\n    at MessageStream.messageHandler (E:\\nodeProject\\moweeBackend\\node_modules\\mongodb\\lib\\cmap\\connection.js:272:20)\n    at MessageStream.emit (events.js:375:28)\n    at processIncomingData (E:\\nodeProject\\moweeBackend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (E:\\nodeProject\\moweeBackend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at writeOrBuffer (internal/streams/writable.js:358:12)\n    at MessageStream.Writable.write (internal/streams/writable.js:303:10)\n    at Socket.ondata (internal/streams/readable.js:726:22)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)\n    at Socket.Readable.push (internal/streams/readable.js:204:10)\n    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked60fe69881d65bc2878478ea7\"","kind":"ObjectId","value":"liked60fe69881d65bc2878478ea7","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked60fe69881d65bc2878478ea7\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked60fe69881d65bc2878478ea7\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked60fe69881d65bc2878478ea7\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked60fe9e62a454c82a4434e6ba\"","kind":"ObjectId","value":"liked60fe9e62a454c82a4434e6ba","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"stringValue":"\"liked60fe9e0c0be86817c8a2975f\"","kind":"ObjectId","value":"liked60fe9e0c0be86817c8a2975f","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked60fe9e0c0be86817c8a2975f\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked60fe9e0c0be86817c8a2975f\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked60fe9e0c0be86817c8a2975f\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked60fe9e62a454c82a4434e6ba\"","kind":"ObjectId","value":"liked60fe9e62a454c82a4434e6ba","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked60fe9e62a454c82a4434e6ba\"","kind":"ObjectId","value":"liked60fe9e62a454c82a4434e6ba","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked60fe9e62a454c82a4434e6ba\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Identifier 'auth' has already been declared Identifier 'auth' has already been declared","stack":"E:\\nodeProject\\moweeBackend\\startup\\routes.js:6\nconst { auth } = require('express-openid-connect');\n        ^\n\nSyntaxError: Identifier 'auth' has already been declared\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\index.js:5:1)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Cannot read property '_id' of undefined Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at E:\\nodeProject\\moweeBackend\\routes\\movies.js:29:59\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\moweeBackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (E:\\nodeProject\\moweeBackend\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"level":"error","message":"Identifier 'validateObject' has already been declared Identifier 'validateObject' has already been declared","stack":"E:\\nodeProject\\moweeBackend\\routes\\movies.js:4\nconst {MovieLiked,validateObject} = require('../models/movieLiked')\n                  ^\n\nSyntaxError: Identifier 'validateObject' has already been declared\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\startup\\routes.js:3:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"stringValue":"\"liked\"","kind":"ObjectId","value":"liked","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\" Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"liked\" (type string) at path \"_id\" for model \"Movie\"\n    at model.Query.exec (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\moweeBackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb+srv://maxym:ygorsing@mowee.lrzms.mongodb.net/test...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/mowee...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb+srv://maxym:ygorsing@mowee.lrzms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port undefined...","level":"info"}
+{"message":"Connected to mongodb+srv://maxym:ygorsing@mowee.lrzms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port undefined...","level":"info"}
+{"message":"Connected to mongodb+srv://maxym:ygorsing@mowee.lrzms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port undefined...","level":"info"}
+{"message":"Connected to mongodb+srv://maxym:ygorsing@mowee.lrzms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port undefined...","level":"info"}
+{"message":"Connected to mongodb+srv://asdf:sagrada12@mowee.lrzms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority...","level":"info"}
+{"level":"error","message":"Process is not defined Process is not defined","stack":"ReferenceError: Process is not defined\n    at Object.<anonymous> (E:\\nodeProject\\moweeBackend\\index.js:11:14)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to mongodb+srv://asdf:sagrada12@mowee.lrzms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb+srv://asdf:sagrada12@mowee.lrzms.mongodb.net/myFirstDatabase?retryWrites=true&w=majority...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"code":"MODULE_NOT_FOUND","requireStack":["E:\\nodeProject\\eatisbackend\\startup\\routes.js","E:\\nodeProject\\eatisbackend\\index.js"],"level":"error","message":"Cannot find module '../routes/movies'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js Cannot find module '../routes/movies'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js","stack":"Error: Cannot find module '../routes/movies'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)\n    at Function.Module._load (internal/modules/cjs/loader.js:746:27)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:3:16)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)"}
+{"code":"MODULE_NOT_FOUND","requireStack":["E:\\nodeProject\\eatisbackend\\routes\\users.js","E:\\nodeProject\\eatisbackend\\startup\\routes.js","E:\\nodeProject\\eatisbackend\\index.js"],"level":"error","message":"Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js","stack":"Error: Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)\n    at Function.Module._load (internal/modules/cjs/loader.js:746:27)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\users.js:4:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:4:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)"}
+{"code":"MODULE_NOT_FOUND","requireStack":["E:\\nodeProject\\eatisbackend\\routes\\users.js","E:\\nodeProject\\eatisbackend\\startup\\routes.js","E:\\nodeProject\\eatisbackend\\index.js"],"level":"error","message":"Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js","stack":"Error: Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)\n    at Function.Module._load (internal/modules/cjs/loader.js:746:27)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\users.js:4:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:4:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)"}
+{"code":"MODULE_NOT_FOUND","requireStack":["E:\\nodeProject\\eatisbackend\\routes\\users.js","E:\\nodeProject\\eatisbackend\\startup\\routes.js","E:\\nodeProject\\eatisbackend\\index.js"],"level":"error","message":"Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js","stack":"Error: Cannot find module '../models/movie'\nRequire stack:\n- E:\\nodeProject\\eatisbackend\\routes\\users.js\n- E:\\nodeProject\\eatisbackend\\startup\\routes.js\n- E:\\nodeProject\\eatisbackend\\index.js\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)\n    at Function.Module._load (internal/modules/cjs/loader.js:746:27)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\users.js:4:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:4:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
