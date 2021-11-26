@@ -3,6 +3,11 @@ const route = express.Router();
 const { RecipeSearch, validateObject } = require("../models/recipeSearch");
 const auth = require("../middleware/auth");
 
+route.get("/wall", async (req, res) => {
+  const recipesSearch = await RecipeSearch.find();
+  res.send(recipesSearch);
+});
+
 route.get("/", auth, async (req, res) => {
   const recipesSearch = await RecipeSearch.find({ owner: req.user._id });
   res.send(recipesSearch);

@@ -24,6 +24,34 @@ const userSchema = new mongoose.Schema({
     minLength: 5,
     maxLength: 1024,
   },
+  weight: {
+    type: Number,
+    required: true,
+    max: 300,
+    min: 30,
+  },
+  height: {
+    type: Number,
+    required: true,
+    max: 300,
+    min: 30,
+  },
+  goal: {
+    type: String,
+    required: true,
+    minLength: 2,
+    maxLength: 100,
+  },
+  birthDate: {
+    type: Date,
+    required: true,
+  },
+  gender: {
+    type: String,
+    required: true,
+    minLength: 3,
+    maxLength: 50,
+  },
 });
 
 userSchema.methods.generateAuthToken = function () {
@@ -49,6 +77,11 @@ function validateObject(result) {
 
   const schema = Joi.object({
     name: Joi.string().min(3).max(50).required(),
+    gender: Joi.string().min(3).max(50).required(),
+    goal: Joi.string().min(3).max(50).required(),
+    weight: Joi.number().required(),
+    height: Joi.number().required(),
+    birthDate: Joi.date().required(),
     email: Joi.string().min(5).max(255).email().required(),
     password: passwordComplexity(complexityOptions).required(),
   });

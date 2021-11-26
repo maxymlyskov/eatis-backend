@@ -4,9 +4,8 @@ const Joi = require("joi");
 const bcrypt = require("bcrypt");
 const express = require("express");
 const route = express.Router();
-const auth = require("../middleware/auth");
 
-route.post("/", auth, async (req, res) => {
+route.post("/", async (req, res) => {
   try {
     const schema = Joi.object({ email: Joi.string().email().required() });
     const { error } = schema.validate(req.body);
@@ -17,10 +16,11 @@ route.post("/", auth, async (req, res) => {
       return res.status(400).send("user with given email doesn't exist");
 
     const salt = await bcrypt.genSalt(3);
-    let token = await bcrypt.hash(req.user._id, salt);
+    let token = await bcrypt.hash(req.body.email, salt);
+    let tokenUpdated = token.replace(/\//g, "|");
 
-    await sendEmail(user.email, "Password reset", token);
-    console.log(token);
+    await sendEmail(user.email, "Password reset", tokenUpdated);
+    console.log(tokenUpdated);
 
     res.send("password reset link sent to your email account");
   } catch (error) {
@@ -29,17 +29,18 @@ route.post("/", auth, async (req, res) => {
   }
 });
 
-route.post("/:id/:token", auth, async (req, res) => {
+route.post("/:email/:token", async (req, res) => {
   try {
-    const { id, token } = req.params;
-    const verified = await bcrypt.compare(id, token);
-    console.log(id, token);
+    const { email, token } = req.params;
+    const emailUpdated = token.replace(/\|/g, "/");
+    const verified = await bcrypt.compare(email, emailUpdated);
+    console.log(emailUpdated, token);
     if (!verified) res.send("Wrong token");
     else {
       const salt = await bcrypt.genSalt(10);
       const password = await bcrypt.hash(req.body.password, salt);
-      const userPassword = await User.findByIdAndUpdate(
-        id,
+      const userPassword = await User.findOneAndUpdate(
+        { email: email },
         { password: password },
         { new: true }
       );
