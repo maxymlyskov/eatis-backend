@@ -49,4 +49,18 @@ route.post("/", async (req, res) => {
     .send(_.pick(user, ["_id", "name", "email"]));
 });
 
+route.put("/:id", async (req, res) => {
+  // const { error } = validateObject(req.body);
+  // if (error) return res.status(400).send(error.details[0].message);
+
+  const user = await User.findByIdAndUpdate(
+    req.params.id,
+    { goal: req.body.goal, weight: req.body.weight, height: req.body.height },
+    { new: true }
+  );
+
+  if (!user) return res.status(404).send("This page is not found!");
+
+  res.send(user);
+});
 module.exports = route;
