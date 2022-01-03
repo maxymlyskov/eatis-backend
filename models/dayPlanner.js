@@ -8,11 +8,11 @@ const mongoose = require("mongoose");
 
 const dayPlannerSchema = new mongoose.Schema({
   meals: [{ type: mealsSchema }],
-  nutrients: { type: nutrientsSchema },
-  owner: {
-    type: mongoose.Schema.Types.ObjectId,
-    required: true,
-  },
+  // nutrients: { type: nutrientsSchema },
+  // owner: {
+  //   type: mongoose.Schema.Types.ObjectId,
+  //   required: true,
+  // },
 });
 
 const DayPlanner = mongoose.model("DayPlanner", dayPlannerSchema);
@@ -20,7 +20,7 @@ const DayPlanner = mongoose.model("DayPlanner", dayPlannerSchema);
 function validateObject(result) {
   const schema = Joi.object({
     meals: Joi.array().required(),
-    nutrients: Joi.object().required(),
+    // nutrients: Joi.object().required(),
   });
   return schema.validate(result);
 }
