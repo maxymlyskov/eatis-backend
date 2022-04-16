@@ -9,8 +9,10 @@ route.get("/wall", async (req, res) => {
 });
 
 route.get("/", auth, async (req, res) => {
-  const recipesSearch = await RecipeSearch.find();
-  // { owner: req.user._id }
+  const recipesSearch = await RecipeSearch.find({ owner: req.user._id }).sort({
+    _id: -1,
+  });
+
   res.send(recipesSearch);
 });
 
@@ -20,7 +22,7 @@ route.get("/:id", async (req, res) => {
   res.send(recipeSearch);
 });
 
-route.post("/", async (req, res) => {
+route.post("/", auth, async (req, res) => {
   const { error } = validateObject(req.body);
   if (error) return res.status(400).send(error.details[0].message);
 
@@ -28,7 +30,7 @@ route.post("/", async (req, res) => {
     title: req.body.title,
     id: req.body.id,
     image: req.body.image,
-    // owner: req.user._id,
+    owner: req.user._id,
   });
   try {
     await recipeSearch.save();
@@ -38,15 +40,17 @@ route.post("/", async (req, res) => {
   }
 });
 
-route.delete("/:id", 
-// auth,
- async (req, res) => {
-  const recipeSearch = await RecipeSearch.findByIdAndRemove(req.params.id);
+route.delete(
+  "/:id",
+  // auth,
+  async (req, res) => {
+    const recipeSearch = await RecipeSearch.findByIdAndRemove(req.params.id);
 
-  if (!recipeSearch) return res.status(404).send("This page is not found!");
+    if (!recipeSearch) return res.status(404).send("This page is not found!");
 
-  res.send(recipeSearch);
-});
+    res.send(recipeSearch);
+  }
+);
 
 route.delete("/", async (req, res) => {
   const recipeSearch = await RecipeSearch.deleteMany({});

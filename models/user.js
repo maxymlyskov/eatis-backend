@@ -52,11 +52,27 @@ const userSchema = new mongoose.Schema({
     minLength: 3,
     maxLength: 50,
   },
+  activity: {
+    type: String,
+    required: true,
+    minLength: 3,
+    maxLength: 50,
+  },
 });
 
 userSchema.methods.generateAuthToken = function () {
   const token = jwt.sign(
-    { _id: this._id, name: this.name, email: this.email },
+    {
+      _id: this._id,
+      name: this.name,
+      email: this.email,
+      weight: this.weight,
+      height: this.height,
+      goal: this.goal,
+      birthDate: this.birthDate,
+      gender: this.gender,
+      activity: this.activity,
+    },
     config.get("jwtPrivateKey")
   );
   return token;
@@ -69,9 +85,7 @@ function validateObject(result) {
     min: 8,
     max: 1024,
     lowerCase: 1,
-    upperCase: 1,
     numeric: 1,
-    symbol: 1,
     requirementCount: 2,
   };
 
@@ -79,6 +93,7 @@ function validateObject(result) {
     name: Joi.string().min(3).max(50).required(),
     gender: Joi.string().min(3).max(50).required(),
     goal: Joi.string().min(3).max(50).required(),
+    activity: Joi.string().min(3).max(50).required(),
     weight: Joi.number().required(),
     height: Joi.number().required(),
     birthDate: Joi.date().required(),

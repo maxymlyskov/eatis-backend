@@ -13,14 +13,9 @@ route.post("/", auth, async (req, res) => {
   if (error) return res.status(400).send(error.details[0].message);
 
   const weekPlanner = new WeekPlanner({
-    week: req.body.week,
-    monday: req.body.monday,
-    tuesday: req.body.tuesday,
-    wednesday: req.body.wednesday,
-    thursday: req.body.thursday,
-    friday: req.body.friday,
-    saturday: req.body.saturday,
-    sunday: req.body.sunday,
+    data: req.body.data,
+    title: req.body.title,
+    image: req.body.image,
     owner: req.user._id,
   });
   try {
@@ -62,12 +57,19 @@ route.delete("/:id/:day/:mealId", auth, async (req, res) => {
   res.send(weekPlanner.week.friday);
 });
 
+route.delete("/:id", auth, async (req, res) => {
+  const weekPlanner = await WeekPlanner.findByIdAndRemove(req.params.id);
+
+  if (!weekPlanner) return res.status(404).send("This page is not found!");
+
+  res.send(weekPlanner);
+});
 route.delete("/", async (req, res) => {
   const weekPlanner = await WeekPlanner.deleteMany({});
 
   if (!weekPlanner) return res.status(404).send("This page is not found!");
 
-  res.send(recipeSearch);
+  res.send(weekPlanner);
 });
 
 module.exports = route;

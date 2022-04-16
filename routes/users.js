@@ -34,6 +34,7 @@ route.post("/", async (req, res) => {
       "birthDate",
       "weight",
       "height",
+      "activity",
     ])
   );
 
@@ -46,18 +47,34 @@ route.post("/", async (req, res) => {
 
   res
     .header("x-auth-token", token)
-    .send(_.pick(user, ["_id", "name", "email"]));
+    .send(
+      _.pick(user, [
+        "_id",
+        "name",
+        "email",
+        "weight",
+        "height",
+        "birthDate",
+        "goal",
+        "gender",
+        "activity",
+      ])
+    );
 });
 
 route.put("/:id", async (req, res) => {
   // const { error } = validateObject(req.body);
   // if (error) return res.status(400).send(error.details[0].message);
 
-  const user = await User.findByIdAndUpdate(
-    req.params.id,
-    { goal: req.body.goal, weight: req.body.weight, height: req.body.height },
-    { new: true }
-  );
+  const user = await User.findByIdAndUpdate(req.params.id, {
+    goal: req.body.goal,
+    weight: req.body.weight,
+    height: req.body.height,
+    activity: req.body.activity,
+    gender: req.body.gender,
+    name: req.body.name,
+    birthDate: req.body.birthDate,
+  });
 
   if (!user) return res.status(404).send("This page is not found!");
 

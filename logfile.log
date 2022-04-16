@@ -1255,3 +1255,288 @@
 {"message":"Connected to mongodb://localhost/eatis...","level":"info"}
 {"message":"Listening on port 4000...","level":"info"}
 {"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"stringValue":"\"undefined\"","kind":"Number","value":"undefined","path":"id","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"valueType":"string","level":"error","message":"Cast to Number failed for value \"undefined\" (type string) at path \"id\" Cast to Number failed for value \"undefined\" (type string) at path \"id\"","stack":"CastError: Cast to Number failed for value \"undefined\" (type string) at path \"id\"\n    at model.Query.exec (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"stringValue":"\"622f9e3aafc1361c50949a2b\"","kind":"Number","value":"622f9e3aafc1361c50949a2b","path":"id","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"valueType":"string","level":"error","message":"Cast to Number failed for value \"622f9e3aafc1361c50949a2b\" (type string) at path \"id\" Cast to Number failed for value \"622f9e3aafc1361c50949a2b\" (type string) at path \"id\"","stack":"CastError: Cast to Number failed for value \"622f9e3aafc1361c50949a2b\" (type string) at path \"id\"\n    at model.Query.exec (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"Cannot read property '_id' of undefined Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at E:\\nodeProject\\eatisbackend\\routes\\weekPlanner.js:9:66\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (E:\\nodeProject\\eatisbackend\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"recipeSearch is not defined recipeSearch is not defined","stack":"ReferenceError: recipeSearch is not defined\n    at E:\\nodeProject\\eatisbackend\\routes\\weekPlanner.js:71:12\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0","stack":"SyntaxError: Unexpected token e in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at E:\\nodeProject\\eatisbackend\\routes\\auth.js:21:17"}
+{"level":"error","message":"Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0","stack":"SyntaxError: Unexpected token e in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at E:\\nodeProject\\eatisbackend\\routes\\auth.js:21:17"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"testy@domain.com"},"level":"error","message":"E11000 duplicate key error collection: eatis.users index: email_1 dup key: { email: \"testy@domain.com\" } E11000 duplicate key error collection: eatis.users index: email_1 dup key: { email: \"testy@domain.com\" }","stack":"MongoError: E11000 duplicate key error collection: eatis.users index: email_1 dup key: { email: \"testy@domain.com\" }\n    at Function.create (E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\core\\error.js:57:12)\n    at toError (E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\utils.js:130:22)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\operations\\common_functions.js:258:39\n    at handler (E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\core\\sdam\\topology.js:943:24)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:350:13\n    at handleOperationResult (E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\core\\sdam\\server.js:558:5)\n    at MessageStream.messageHandler (E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\cmap\\connection.js:281:5)\n    at MessageStream.emit (events.js:375:28)\n    at processIncomingData (E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:144:12)\n    at MessageStream._write (E:\\nodeProject\\eatisbackend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:42:5)\n    at writeOrBuffer (internal/streams/writable.js:358:12)\n    at MessageStream.Writable.write (internal/streams/writable.js:303:10)\n    at Socket.ondata (internal/streams/readable.js:726:22)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"RecipeSearch.find(...).sort(...).forEach is not a function RecipeSearch.find(...).sort(...).forEach is not a function","stack":"TypeError: RecipeSearch.find(...).sort(...).forEach is not a function\n    at E:\\nodeProject\\eatisbackend\\routes\\recipeSearch.js:9:6\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (E:\\nodeProject\\eatisbackend\\node_modules\\body-parser\\lib\\types\\urlencoded.js:91:7)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"Invalid sort() argument. Must be a string, object, or array. Invalid sort() argument. Must be a string, object, or array.","stack":"TypeError: Invalid sort() argument. Must be a string, object, or array.\n    at model.Query.Query.sort (E:\\nodeProject\\eatisbackend\\node_modules\\mquery\\lib\\mquery.js:1292:9)\n    at model.Query.Query.sort (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:2665:26)\n    at E:\\nodeProject\\eatisbackend\\routes\\recipeSearch.js:12:74\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (E:\\nodeProject\\eatisbackend\\middleware\\auth.js:13:9)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"User\" Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"User\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"User\"\n    at model.Query.exec (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\response.js:1123:12)\n    at ServerResponse.json (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\response.js:260:14)\n    at ServerResponse.send (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\response.js:158:21)\n    at E:\\nodeProject\\eatisbackend\\routes\\users.js:11:7\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (E:\\nodeProject\\eatisbackend\\middleware\\auth.js:13:9)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\nodeProject\\eatisbackend\\node_modules\\express\\lib\\router\\index.js:174:3)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"stringValue":"\"Save weight\"","kind":"Number","value":"Save weight","path":"weight","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"valueType":"string","level":"error","message":"Cast to Number failed for value \"Save weight\" (type string) at path \"weight\" Cast to Number failed for value \"Save weight\" (type string) at path \"weight\"","stack":"CastError: Cast to Number failed for value \"Save weight\" (type string) at path \"weight\"\n    at model.Query.exec (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"stringValue":"\"Gain weight\"","kind":"Number","value":"Gain weight","path":"weight","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"valueType":"string","level":"error","message":"Cast to Number failed for value \"Gain weight\" (type string) at path \"weight\" Cast to Number failed for value \"Gain weight\" (type string) at path \"weight\"","stack":"CastError: Cast to Number failed for value \"Gain weight\" (type string) at path \"weight\"\n    at model.Query.exec (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4478:21)\n    at model.Query.Query.then (E:\\nodeProject\\eatisbackend\\node_modules\\mongoose\\lib\\query.js:4572:15)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"code":"EAUTH","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials i6-20020a198c46000000b0044424910c94sm4234621lfj.113 - gsmtp","responseCode":535,"command":"AUTH PLAIN","level":"error","message":"Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials i6-20020a198c46000000b0044424910c94sm4234621lfj.113 - gsmtp Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials i6-20020a198c46000000b0044424910c94sm4234621lfj.113 - gsmtp","stack":"Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials i6-20020a198c46000000b0044424910c94sm4234621lfj.113 - gsmtp\n    at SMTPConnection._formatError (E:\\nodeProject\\eatisbackend\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:784:19)\n    at SMTPConnection._actionAUTHComplete (E:\\nodeProject\\eatisbackend\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1536:34)\n    at SMTPConnection.<anonymous> (E:\\nodeProject\\eatisbackend\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:540:26)\n    at SMTPConnection._processResponse (E:\\nodeProject\\eatisbackend\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:947:20)\n    at SMTPConnection._onData (E:\\nodeProject\\eatisbackend\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:749:14)\n    at TLSSocket.SMTPConnection._onSocketData (E:\\nodeProject\\eatisbackend\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:189:44)\n    at TLSSocket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)\n    at TLSSocket.Readable.push (internal/streams/readable.js:204:10)\n    at TLSWrap.onStreamRead (internal/stream_base_commons.js:188:23)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"transporter is not defined transporter is not defined","stack":"ReferenceError: transporter is not defined\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:5:1)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\reset.js:2:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"level":"error","message":"transporter is not defined transporter is not defined","stack":"ReferenceError: transporter is not defined\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:5:1)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\reset.js:2:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\views\\index.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\views\\index.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\eatisbackend\\main.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\views\\index.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\views\\index.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\eatisbackend\\main.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\eatisbackend\\eatisbackend\\views\\index.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\eatisbackend\\views\\index.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\eatisbackend\\views\\index.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\eatisbackend\\views\\index.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\eatisbackend\\main.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\eatisbackend\\main.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\eatisbackend\\main.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\main.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\nodeProject\\eatisbackend\\views\\index.handlebars\\index.handlebars","level":"error","message":"ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\views\\index.handlebars\\index.handlebars' ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\views\\index.handlebars\\index.handlebars'","stack":"Error: ENOENT: no such file or directory, open 'E:\\nodeProject\\eatisbackend\\views\\index.handlebars\\index.handlebars'"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"Unexpected token '<' Unexpected token '<'","stack":"E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:36\n      html: <html lang=\"en\">\n            ^\n\nSyntaxError: Unexpected token '<'\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\reset.js:2:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"level":"error","message":"Unexpected token '<' Unexpected token '<'","stack":"E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:37\n      <p>dasd</p>, amp: <html lang=\"en\">\n      ^\n\nSyntaxError: Unexpected token '<'\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\reset.js:2:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"Invalid or unexpected token Invalid or unexpected token","stack":"E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:32\n      html: '<html>  <head>\n            ^^^^^^^^^^^^^^^\n\nSyntaxError: Invalid or unexpected token\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\reset.js:2:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"level":"error","message":"Invalid or unexpected token Invalid or unexpected token","stack":"E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:32\n      html: '<html><script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\">function copyToClipboard(elementId) {\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nSyntaxError: Invalid or unexpected token\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\reset.js:2:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"Parse error on line 14:\n...\r<button onclick={{func()}}>Copy P2</bu\n----------------------^\nExpecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID' Parse error on line 14:\n...\r<button onclick={{func()}}>Copy P2</bu\n----------------------^\nExpecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID'","stack":"Error: Parse error on line 14:\n...\r<button onclick={{func()}}>Copy P2</bu\n----------------------^\nExpecting 'ID', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', got 'INVALID'\n    at Parser.parseError (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\parser.js:267:19)\n    at Parser.parse (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\parser.js:336:30)\n    at parseWithoutProcessing (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\base.js:46:33)\n    at HandlebarsEnvironment.parse (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\base.js:52:13)\n    at compileInput (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\compiler.js:508:19)\n    at ret (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\compiler.js:517:18)\n    at ExpressHandlebars._renderTemplate (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:324:16)\n    at ExpressHandlebars.<anonymous> (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:240:37)\n    at step (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:49:23)\n    at Object.next (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:30:53)\n    at fulfilled (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:21:58)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"level":"error","message":"$ is not defined $ is not defined","stack":"ReferenceError: $ is not defined\n    at Object.copyToClipboard [as func] (E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:36:23)\n    at Object.eval [as main] (eval at createFunctionContext (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\javascript-compiler.js:262:23), <anonymous>:11:190)\n    at main (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\runtime.js:208:32)\n    at ret (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\runtime.js:212:12)\n    at ret (E:\\nodeProject\\eatisbackend\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\compiler.js:519:21)\n    at ExpressHandlebars._renderTemplate (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:324:16)\n    at ExpressHandlebars.<anonymous> (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:240:37)\n    at step (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:49:23)\n    at Object.next (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:30:53)\n    at fulfilled (E:\\nodeProject\\eatisbackend\\node_modules\\express-handlebars\\dist\\express-handlebars.js:21:58)"}
+{"level":"error","message":"Unexpected token '}' Unexpected token '}'","stack":"E:\\nodeProject\\eatisbackend\\utils\\sendEmail.js:41\n    });\n    ^\n\nSyntaxError: Unexpected token '}'\n    at wrapSafe (internal/modules/cjs/loader.js:1001:16)\n    at Module._compile (internal/modules/cjs/loader.js:1049:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\routes\\reset.js:2:19)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Module.require (internal/modules/cjs/loader.js:974:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at Object.<anonymous> (E:\\nodeProject\\eatisbackend\\startup\\routes.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}
+{"message":"Listening on port 4000...","level":"info"}
+{"message":"Connected to mongodb://localhost/eatis...","level":"info"}

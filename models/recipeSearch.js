@@ -19,10 +19,10 @@ const recipeSearchSchema = new mongoose.Schema({
     required: true,
     maxLength: 200,
   },
-  // owner: {
-  //   type: mongoose.Schema.Types.ObjectId,
-  //   required: true,
-  // },
+  owner: {
+    type: mongoose.Schema.Types.ObjectId,
+    required: true,
+  },
 });
 
 const RecipeSearch = mongoose.model("RecipeSearch", recipeSearchSchema);

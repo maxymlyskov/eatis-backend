@@ -3,30 +3,29 @@ const route = express.Router();
 const { DayPlanner, validateObject } = require("../models/dayPlanner");
 const auth = require("../middleware/auth");
 
-route.get("/", async (req, res) => {
-  const dayPlanner = await DayPlanner.find();
+route.get("/", auth, async (req, res) => {
+  const dayPlanner = await DayPlanner.find({ owner: req.user._id });
   res.send(dayPlanner);
 });
 
-route.post(
-  "/",
-  /*auth,*/ async (req, res) => {
-    const { error } = validateObject(req.body);
-    if (error) return res.status(400).send(error.details[0].message);
+route.post("/", auth, async (req, res) => {
+  const { error } = validateObject(req.body);
+  if (error) return res.status(400).send(error.details[0].message);
 
-    const dayPlanner = new DayPlanner({
-      meals: req.body.meals,
-      // nutrients: req.body.nutrients,
-      // owner: req.user._id,
-    });
-    try {
-      await dayPlanner.save();
-      return res.send(dayPlanner);
-    } catch (error) {
-      res.send(error);
-    }
+  const dayPlanner = new DayPlanner({
+    meals: req.body.meals,
+    title: req.body.title,
+    image: req.body.image,
+    // nutrients: req.body.nutrients,
+    owner: req.user._id,
+  });
+  try {
+    await dayPlanner.save();
+    return res.send(dayPlanner);
+  } catch (error) {
+    res.send(error);
   }
-);
+});
 
 route.put("/:id", auth, async (req, res) => {
   const { error } = validateObject(req.body);
@@ -43,16 +42,22 @@ route.put("/:id", auth, async (req, res) => {
   res.send(dayPlanner);
 });
 
-route.delete("/:id/:mealId", auth, async (req, res) => {
-  const dayPlanner = await DayPlanner.findByIdAndUpdate(
-    req.params.id,
-    { $pull: { meals: { id: req.params.mealId } } },
-    { multi: false }
-  );
+route.delete("/:id", auth, async (req, res) => {
+  const dayPlanner = await DayPlanner.findByIdAndRemove(req.params.id);
   if (!dayPlanner) return res.status(404).send("This page is not found!");
 
   res.send(dayPlanner);
 });
+// route.delete("/:id/:mealId" /*, auth*/, async (req, res) => {
+//   const dayPlanner = await DayPlanner.findByIdAndUpdate(
+//     req.params.id,
+//     { $pull: { meals: { id: req.params.mealId } } },
+//     { multi: false }
+//   );
+//   if (!dayPlanner) return res.status(404).send("This page is not found!");
+
+//   res.send(dayPlanner);
+// });
 
 route.delete("/", async (req, res) => {
   const dayPlanner = await DayPlanner.deleteMany({});

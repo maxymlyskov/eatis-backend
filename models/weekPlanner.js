@@ -7,36 +7,10 @@ const { nutrientsSchema } = require("./nutrients");
 const mongoose = require("mongoose");
 
 const weekPlannerSchema = new mongoose.Schema({
-  week: {
-    monday: {
-      meals: [{ type: mealsSchema }],
-      nutrients: { type: nutrientsSchema },
-    },
-    tuesday: {
-      meals: [{ type: mealsSchema }],
-      nutrients: { type: nutrientsSchema },
-    },
-    wednesday: {
-      meals: [{ type: mealsSchema }],
-      nutrients: { type: nutrientsSchema },
-    },
-    thursday: {
-      meals: [{ type: mealsSchema }],
-      nutrients: { type: nutrientsSchema },
-    },
-    friday: {
-      meals: [{ type: mealsSchema }],
-      nutrients: { type: nutrientsSchema },
-    },
-    saturday: {
-      meals: [{ type: mealsSchema }],
-      nutrients: { type: nutrientsSchema },
-    },
-    sunday: {
-      meals: [{ type: mealsSchema }],
-      nutrients: { type: nutrientsSchema },
-    },
-  },
+  data: { type: Object, required: true },
+  title: { type: String, required: true },
+  image: { type: String, required: true },
+
   owner: {
     type: mongoose.Schema.Types.ObjectId,
     required: true,
@@ -47,7 +21,9 @@ const WeekPlanner = mongoose.model("WeekPlanner", weekPlannerSchema);
 
 function validateObject(result) {
   const schema = Joi.object({
-    week: Joi.object().required(),
+    data: Joi.object().required(),
+    title: Joi.string().required(),
+    image: Joi.string().required(),
   });
   return schema.validate(result);
 }
